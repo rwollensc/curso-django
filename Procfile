@@ -1,0 +1,1 @@
+web: gunicor pypronecto.wsgi --log-file -
